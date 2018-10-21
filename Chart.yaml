@@ -1,0 +1,5 @@
+name: Intercept techday chart
+version: 1.0.0
+description: helm chart demo
+maintainers:
+ - name: Wesley Haakman
